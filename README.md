@@ -1,6 +1,4 @@
-تمام يا معلم! هعملهالك فشيخ! 🔥💪
-
-markdown# 🚀 Full-Stack REST API Server
+# 🚀 Full-Stack REST API Server
 
 A comprehensive and production-ready RESTful API backend built with Node.js, Express.js, and MongoDB. This project demonstrates advanced backend development skills including nested routes, authentication, middleware implementation, and best practices for scalable API architecture.
 
