@@ -333,10 +333,8 @@ npm run format     # Format code with Prettier
 ---
 
 ## 📖 Documentation
-
-For detailed API documentation, visit:
-- [API Documentation](link-to-docs)
-- [Postman Collection](link-to-postman)
+Using : 
+PostMan - For testing
 
 ---
 
